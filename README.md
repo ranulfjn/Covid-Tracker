@@ -9,4 +9,8 @@ User can select country of his choice and get inection details of the country
 * Covid 19 mathdro api
 
 
+![covid-tracker ](https://user-images.githubusercontent.com/69053657/114276811-53b04e80-99f6-11eb-8a7f-8f394e1c5352.gif)
+
+
+
 
