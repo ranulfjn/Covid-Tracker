@@ -1,5 +1,5 @@
 # Covid-Tracker
-This App get you the real time infection details of covid aroung the globe
+This App get you the real time infection details of covid aroung the globe.
 User can select country of his choice and get inection details of the country
 
 #### Technologies used
