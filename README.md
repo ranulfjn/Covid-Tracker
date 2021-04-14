@@ -1,6 +1,6 @@
 # Covid-Tracker
 This App get you the real time infection details of covid aroung the globe.
-User can select country of his choice and get inection details of the country
+User can select country of his choice and get infection details of that country .
 
 #### Technologies used
 * React Js
